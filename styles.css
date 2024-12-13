@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+header {
+    background: #6c63ff;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+main {
+    padding: 1rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+select {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+#info-display {
+    margin-top: 1rem;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
